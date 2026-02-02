@@ -12,3 +12,4 @@ This GitHub repository contains a project that leverages Python to retrieve and 
 4. Edit `config.py`.
 5. Run `python3 main.py`.
 
+ 
